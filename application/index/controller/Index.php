@@ -37,7 +37,7 @@ class Index extends Controller
 
     public function test()
     {
-        $a = '淘宝正确刷单增加销量打造爆款';
+        $a = '淘宝正确刷单增加销量打造爆款111';
         if(isset($a{39})){
             $a = msubstr($a,0,11);
         }
